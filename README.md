@@ -5,6 +5,7 @@
  ✅ A fixed navigation bar that stays visible on scroll.
 
  ✅ Interactive menu styles on hover and scroll.
+
  ✅ Clean layout optimized for all screen sizes.
 
 This experience helped me strengthen my skills in HTML, CSS, and responsive design principles. Looking forward to more learning and hands-on projects! 🙌
